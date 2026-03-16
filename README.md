@@ -1,5 +1,6 @@
 # asu-classwatch
 Track ASU classes and optimize your schedule
+
 Arizona State University makes finding open classes and building semester schedules unnecessarily complicated. Students often have to navigate multiple pages and manually track course availability, which is time-consuming and stressful.
 
 ClassWatch is a cloud-based web application I built to simplify this process for other undergraduates. It allows users to:
